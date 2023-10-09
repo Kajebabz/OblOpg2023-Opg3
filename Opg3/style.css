@@ -1,0 +1,28 @@
+
+.box {
+    padding-top: 15px;
+    height: 200px;
+    background: #fff387;
+}
+
+.small-link {
+    font-size: 15px;
+  }
+
+.box p {
+    margin-left: 20px;
+    font-size: 13px;
+    line-height: 1.8;
+}
+
+.archive-link {
+    font-size: 18px;
+    font-weight: bold; 
+    text-decoration: none; 
+  }
+
+.archive-icon::before {
+    content: "\f187";
+    font-family: FontAwesome; 
+    margin-right: 5px; 
+  }
